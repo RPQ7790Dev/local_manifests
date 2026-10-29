@@ -14,7 +14,7 @@
   <project path="kernel/retroidpocket/cq7790s-modules" remote="github" name="RPQ7790Dev/android_kernel_retroidpocket_cq7790s-modules" />
 
   <!-- hw -->
-  <project path="hardware/ayn" remote="github" name="LineageOS/android_hardware_ayn" />
+  <project path="hardware/ayn" remote="github" name="RPQ7790Dev/android_hardware_ayn" />
 
   <!-- common modules -->
   <project path="kernel/ayn/common-modules" remote="github" name="LineageOS/android_kernel_ayn_common-modules" />
