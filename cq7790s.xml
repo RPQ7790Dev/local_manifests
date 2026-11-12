@@ -11,7 +11,7 @@
   <!-- cq7790s kernel -->
   <project path="kernel/retroidpocket/cq7790s" remote="github" name="RPQ7790Dev/android_kernel_retroidpocket_cq7790s" />
   <project path="kernel/retroidpocket/cq7790s-devicetrees" remote="github" name="RPQ7790Dev/android_kernel_retroidpocket_cq7790s-devicetrees" />
-  <project path="kernel/retroidpocket/cq7790s-modules" remote="github" name="RPQ7790Dev/android_kernel_retroidpocket_cq7790s-modules" />
+  <project path="kernel/retroidpocket/cq7790s-modules" remote="github" name="RPQ7790Dev/android_kernel_retroidpocket_cq7790s-modules" revision="luk/tmp"/>
 
   <!-- hw -->
   <project path="hardware/ayn" remote="github" name="RPQ7790Dev/android_hardware_ayn" />
